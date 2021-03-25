@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vasishtaballa
+- 👋 Hi, I’m Vasishta Balla
 - 👀 I’m interested in: Solving problems and developing cool features
 - 🌱 I’m currently learning: Exploring various LLDs and HLDs alongside improving my problem-solving skills
 - 💞️ I’m looking to collaborate on: Any dev projects which will contribute to my learning
